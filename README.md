@@ -22,8 +22,8 @@ El flujo principal está en el notebook: `entrega_final.ipynb`.
 En PowerShell o CMD:
 
 ```powershell
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
+git clone https://github.com/TeoBarrena/OVS-Biodiversidad.git
+cd <OVS-Biodiversidad>
 ```
 
 ## Crear entorno virtual e instalar dependencias
